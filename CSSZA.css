@@ -821,7 +821,7 @@ body, html {
 }
 
 #channelsList .channels ul {
-  width: 40%;
+  width: 50%;
   height: 100%;
   padding: 0;
   margin: 0;
@@ -849,7 +849,7 @@ body, html {
 
 #channelsList .channels ul li .channel-image {
   transition: all cubic-bezier(0, 0, 0, 1) 0.3s;
-  transform: scale(0.65);
+  transform: scale(0.55);
   transform-origin: center;
   padding: 1rem;
   background-color: rgba(10, 12, 17, 0.85);
@@ -865,7 +865,7 @@ body, html {
 }
 
 #channelsList .channels ul li .channel-data {
-  max-width: 50%;
+  max-width: 60%;
   transform: translateX(-1rem);
   transition: all ease 0.2s;
   margin-left: 2rem;
