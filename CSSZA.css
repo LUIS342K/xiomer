@@ -958,7 +958,7 @@ body, html {
 }
 
 #channelsList .channels ul li.active .channel-image {
-  background-color: #F05073;
+  background-color: #507BF0;
   box-shadow: 0 1rem 2rem rgba(240, 80, 115, 0.5), 0 1rem 4rem rgba(240, 80, 115, 0.3);
 }
 
@@ -2227,7 +2227,7 @@ button.control.control--highlight:before {
 }
 
 button.control.control--ckeckout {
-  background-color: #F05073;
+  background-color: #507BF0;
   color: white;
   width: 100%;
   display: block;
@@ -2257,7 +2257,7 @@ button.control.loading::after {
   border-top: 2px solid white;
   border-left: 2px solid white;
   border-bottom: 2px solid white;
-  border-right: 2px solid #F05073;
+  border-right: 2px solid #507BF0;
   border-radius: 50%;
   animation: rotateLoading 1s infinite ease;
 }
@@ -2421,7 +2421,7 @@ button.control.success:after {
 .epg-time .control-start-time:before,
 .control-time .start-time:before,
 .control-time .control-start-time:before {
-  background-color: #F05073;
+  background-color: #507BF0;
 }
 
 .epg-time .end-time,
@@ -2599,7 +2599,7 @@ button.control.success:after {
 }
 
 .rangeVolumenStatus {
-  background-color: #F05073;
+  background-color: #507BF0;
   height: 0.2rem;
   display: block;
   position: absolute;
